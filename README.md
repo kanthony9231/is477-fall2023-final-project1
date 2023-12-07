@@ -1,5 +1,7 @@
 # is477-fall2023-final-project-wine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10280248.svg)](https://doi.org/10.5281/zenodo.10280248)
+
 ## Overview
 This project focuses on the analysis of a wine dataset, specifically examining the characteristics of various wines and employing linear regression to predict the alcohol content based on their flavanoid content. The dataset, known as 'wine.data', initially lacked header information, prompting the assignment of descriptive feature names for clarity. These features, fourteen in total, include Class, Alcohol, Malic acid, among others.
 
