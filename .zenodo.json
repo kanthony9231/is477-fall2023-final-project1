@@ -1,0 +1,25 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0005-8861-3497",
+            "name": "Anthony Kang"
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "is477-final-project-wine",
+    "description": "wine dataset reproduction",
+    "access_right": "open",
+    "upload_type": "software",
+    "keywords": ["Wine", "Chemical", "Alcohol"],
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C5PC7J",
+            "relation": "cites",
+            "resource_type": "dataset"
+        }
+    ]
+}
